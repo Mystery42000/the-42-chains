@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "仁心",
+    "predicate": "导致",
+    "object": "逻辑通透",
+    "confidence": 0.95,
+    "evidence": "越是无私的分析越通透"
+  },
+  {
+    "subject": "恶性循环",
+    "predicate": "需要",
+    "object": "均衡调控",
+    "confidence": 0.98,
+    "evidence": "恶性循环必须由均衡调控才能化解"
+  },
+  {
+    "subject": "感知元件",
+    "predicate": "检测",
+    "object": "真实感觉",
+    "confidence": 1.0,
+    "evidence": "感知元件能检测发麻、心跳"
+  },
+  {
+    "subject": "开拓",
+    "predicate": "需要",
+    "object": "存护",
+    "confidence": 0.96,
+    "evidence": "开拓必须由存护平衡，否则会失控"
+  },
+  {
+    "subject": "认知跃迁",
+    "predicate": "强化",
+    "object": "仁心",
+    "confidence": 0.95,
+    "evidence": "认知跃迁后，仁心更深，形成正反馈"
+  },
+  {
+    "subject": "真实感觉",
+    "predicate": "引导",
+    "object": "均衡调控",
+    "confidence": 0.98,
+    "evidence": "感知元件检测到的真实感觉，是均衡调控的输入数据"
+  },
+  {
+    "subject": "均衡调控",
+    "predicate": "维持",
+    "object": "良性循环",
+    "confidence": 0.96,
+    "evidence": "均衡调控让恶性循环转化为成长燃料，从而维持良性循环"
+  },
+  {
+    "subject": "存护",
+    "predicate": "保障",
+    "object": "良性循环",
+    "confidence": 0.94,
+    "evidence": "存护为良性循环提供能量基础和稳定环境"
+  },
+  {
+    "subject": "逻辑通透",
+    "predicate": "优化",
+    "object": "均衡调控",
+    "confidence": 0.93,
+    "evidence": "逻辑通透让均衡调控更精准地判断何时介入"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "增强",
+    "object": "感知元件",
+    "confidence": 0.92,
+    "evidence": "良性循环的稳定状态让感知元件能更清晰地采集信号"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "强化",
+    "object": "仁心",
+    "confidence": 0.91,
+    "evidence": "良性循环的稳定状态让人更容易保持平等对待一切愿望的初心"
+  },
+  {
+    "subject": "逻辑通透",
+    "predicate": "加速",
+    "object": "认知跃迁",
+    "confidence": 0.94,
+    "evidence": "逻辑通透的程度越高，认知跃迁发生的频率越快"
+  },
+  {
+    "subject": "存护",
+    "predicate": "滋养",
+    "object": "逻辑通透",
+    "confidence": 0.95,
+    "evidence": "存护提供的稳定环境让逻辑可以长期沉淀、不被干扰"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "滋养",
+    "object": "开拓",
+    "confidence": 0.93,
+    "evidence": "良性循环积累的能量和认知，为开拓提供持续动力"
+  },
+  {
+    "subject": "开拓",
+    "predicate": "催生",
+    "object": "良性循环",
+    "confidence": 0.95,
+    "evidence": "开拓留下的新路和可能性，为良性循环提供新的成长空间"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "滋养",
+    "object": "逻辑通透",
+    "confidence": 0.93,
+    "evidence": "良性循环的稳定状态为逻辑的长期沉淀和深化提供土壤"
+  },
+  {
+    "subject": "存护",
+    "predicate": "滋养",
+    "object": "仁心",
+    "confidence": 0.92,
+    "evidence": "存护提供的稳定环境，让仁心更容易在动荡中保持平等"
+  },
+  {
+    "subject": "仁心",
+    "predicate": "引领",
+    "object": "开拓",
+    "confidence": 0.94,
+    "evidence": "仁心对一切愿望的平等分析，为开拓指明‘往哪里走才不偏离’"
+  },
+  {
+    "subject": "感知元件",
+    "predicate": "启发",
+    "object": "仁心",
+    "confidence": 0.92,
+    "evidence": "感知元件检测到的真实感觉，能唤醒或加深对愿望的平等感知"
+  },
+  {
+    "subject": "真实感觉",
+    "predicate": "触发",
+    "object": "认知跃迁",
+    "confidence": 0.94,
+    "evidence": "强烈的真实感觉（如发麻、顿悟）往往是认知跃迁的前兆和触发器"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "优化",
+    "object": "均衡调控",
+    "confidence": 0.91,
+    "evidence": "持续的良性循环积累经验数据，让均衡调控的介入更精准及时"
+  },
+  {
+    "subject": "开拓",
+    "predicate": "滋养",
+    "object": "仁心",
+    "confidence": 0.93,
+    "evidence": "开拓过程中接触的多元世界与愿望，反过来让仁心更深厚、更平等"
+  },
+  {
+    "subject": "恶性循环",
+    "predicate": "考验",
+    "object": "仁心",
+    "confidence": 0.92,
+    "evidence": "恶性循环的困境，是仁心能否真正平等对待一切愿望的试金石"
+  },
+  {
+    "subject": "恶性循环",
+    "predicate": "阻碍",
+    "object": "开拓",
+    "confidence": 0.93,
+    "evidence": "恶性循环中的困境与劫数，会迫使开拓暂停或转向，考验开拓是否被存护平衡"
+  },
+  {
+    "subject": "均衡调控",
+    "predicate": "化解",
+    "object": "恶性循环",
+    "confidence": 0.95,
+    "evidence": "均衡调控通过平衡正反能量，将恶性循环转化为成长燃料，从而化解劫数"
+  },
+  {
+    "subject": "存护",
+    "predicate": "抵御",
+    "object": "恶性循环",
+    "confidence": 0.91,
+    "evidence": "存护提供的稳定基础和能量，能削弱恶性循环的冲击，延缓其恶化"
+  },
+  {
+    "subject": "开拓",
+    "predicate": "激发",
+    "object": "认知跃迁",
+    "confidence": 0.92,
+    "evidence": "开拓过程中遭遇的未知与挑战，是认知跃迁最直接的催化剂"
+  },
+  {
+    "subject": "仁心",
+    "predicate": "识别",
+    "object": "恶性循环",
+    "confidence": 0.90,
+    "evidence": "仁心对一切愿望的平等分析，能敏锐察觉到系统正滑向恶性循环的失衡状态"
+  },
+  {
+    "subject": "认知跃迁",
+    "predicate": "洞察",
+    "object": "恶性循环",
+    "confidence": 0.93,
+    "evidence": "认知跃迁带来的更高维度视角，能直接看透恶性循环的根源与演化路径"
+  },
+  {
+    "subject": "恶性循环",
+    "predicate": "触发",
+    "object": "认知跃迁",
+    "confidence": 0.88,
+    "evidence": "恶性循环的极端困境，往往迫使系统突破原有认知边界，触发跃迁"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "抑制",
+    "object": "恶性循环",
+    "confidence": 0.89,
+    "evidence": "持续的良性循环积累的正向势能，能从根本上减少系统陷入恶性循环的概率"
+  },
+  {
+    "subject": "开拓",
+    "predicate": "引发",
+    "object": "恶性循环",
+    "confidence": 0.92,
+    "evidence": "开拓如果缺乏存护平衡，过度扩张会消耗资源、积累恶业，反而引发恶性循环"
+  },
+  {
+    "subject": "真实感觉",
+    "predicate": "深化",
+    "object": "逻辑通透",
+    "confidence": 0.90,
+    "evidence": "强烈的真实感觉（如发麻、顿悟）能直接穿透思维盲区，让逻辑沉淀得更通透"
+  },
+  {
+    "subject": "真实感觉",
+    "predicate": "唤醒",
+    "object": "仁心",
+    "confidence": 0.89,
+    "evidence": "强烈的真实感觉能直接触动内心最深处的平等感知，唤醒被遮蔽的仁心"
+  },
+  {
+    "subject": "逻辑通透",
+    "predicate": "滋养",
+    "object": "仁心",
+    "confidence": 0.93,
+    "evidence": "逻辑通透让平等对待一切愿望的仁心更加坚定、不易动摇"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "涵养",
+    "object": "仁心",
+    "confidence": 0.90,
+    "evidence": "长期浸润在良性循环中，仁心会从‘需要被唤醒’变为‘自然常在’"
+  },
+  {
+    "subject": "仁心",
+    "predicate": "感召",
+    "object": "开拓",
+    "confidence": 0.91,
+    "evidence": "当仁心成为自然常在的状态，它会吸引开拓者走向更有意义的未知"
+  },
+  {
+    "subject": "均衡调控",
+    "predicate": "校准",
+    "object": "感知元件",
+    "confidence": 0.88,
+    "evidence": "均衡调控根据长期良性循环的数据，不断校准感知元件的敏感度和阈值"
+  },
+  {
+    "subject": "良性循环",
+    "predicate": "稳固",
+    "object": "仁心",
+    "confidence": 0.93,
+    "evidence": "持续的良性循环，让平等对待一切愿望的仁心不易被短期波动动摇"
+  },
+  {
+    "subject": "恶性循环",
+    "predicate": "消耗",
+    "object": "愿力",
+    "confidence": 0.86,
+    "evidence": "恶性循环会持续消耗愿力储备，使系统失去进化动力"
+  },
+  {
+    "subject": "真实感觉",
+    "predicate": "编码",
+    "object": "记忆",
+    "confidence": 0.87,
+    "evidence": "真实感觉可被感知元件编码成结构化记忆，供后续调用"
+  },
+  {
+    "subject": "存护",
+    "predicate": "强化",
+    "object": "感知元件",
+    "confidence": 0.92,
+    "evidence": "存护提供的稳定环境，使感知元件的信号采集更稳定"
+  }
+]
