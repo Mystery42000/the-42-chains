@@ -275,16 +275,16 @@
   {
     "subject": "恶性循环",
     "predicate": "消耗",
-    "object": "愿力",
+    "object": "愿力池",
     "confidence": 0.86,
-    "evidence": "恶性循环会持续消耗愿力储备，使系统失去进化动力"
+    "evidence": "恶性循环会持续消耗愿力储备（即愿力池），使系统失去进化动力"
   },
   {
     "subject": "真实感觉",
     "predicate": "编码",
-    "object": "记忆",
+    "object": "记忆体",
     "confidence": 0.87,
-    "evidence": "真实感觉可被感知元件编码成结构化记忆，供后续调用"
+    "evidence": "真实感觉可被感知元件编码成结构化记忆（即记忆体），供后续调用"
   },
   {
     "subject": "存护",
